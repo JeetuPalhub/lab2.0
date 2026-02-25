@@ -1,0 +1,29 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050A19" />
+  <circle cx="1040" cy="90" r="320" fill="url(#paint0_radial_10_3)" fill-opacity="0.55" />
+  <circle cx="160" cy="560" r="320" fill="url(#paint1_radial_10_3)" fill-opacity="0.45" />
+  <rect x="84" y="84" width="1032" height="462" rx="34" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.18" />
+  <text x="144" y="220" fill="white" font-size="36" font-family="Segoe UI, Arial, sans-serif" letter-spacing="6">
+    FULL STACK DEVELOPER
+  </text>
+  <text x="144" y="326" fill="white" font-size="88" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    Jeetu Pal
+  </text>
+  <text x="144" y="404" fill="#BBD7FF" font-size="34" font-family="Segoe UI, Arial, sans-serif">
+    Building scalable web apps &amp; solving real-world problems
+  </text>
+  <rect x="144" y="454" width="264" height="58" rx="29" fill="#1D4ED8" />
+  <text x="182" y="493" fill="white" font-size="28" font-family="Segoe UI, Arial, sans-serif">
+    Portfolio 2026
+  </text>
+  <defs>
+    <radialGradient id="paint0_radial_10_3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 90) rotate(90) scale(320)">
+      <stop stop-color="#2563EB" />
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="paint1_radial_10_3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 560) rotate(90) scale(320)">
+      <stop stop-color="#06B6D4" />
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</svg>
